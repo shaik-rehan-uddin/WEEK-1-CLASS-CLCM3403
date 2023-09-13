@@ -1,0 +1,40 @@
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 2px;
+}
+h2{
+    background-color: rgb(215, 255, 69);
+    padding: 10px;
+}
+p{
+    font-weight: 400;
+}
+.rounded-border{
+    border-radius: 15px;
+    border: 2px solid black;
+}
+
+.ex{
+    height: 200px;
+    width: 200px;
+    display: inline-block;
+    
+}
+
+.ex1{
+    background-color: rgb(114, 179, 223);
+    border: 2px solid black;
+    border-radius: 10px;
+    margin-left: 25px;
+    padding: 10px;
+}
+
+.ex2 {
+    background-color: greenyellow;
+}
+
+.images-div{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
